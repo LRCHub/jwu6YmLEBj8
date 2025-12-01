@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "BERSERK -Forces-",
+  "base_artist": "平沢進",
+  "createdAt": "2025-12-01T16:24:30.539595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BERSERK -Forces-",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/01_BERSERK_-Forces-_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BERSERK -Forces-",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/02_BERSERK_-Forces-_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BERSERK -Forces- (Original Karaoke [オリジナル・カラオケ])",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/03_BERSERK_-Forces-_(Original_Karaoke_[オリジナル・カラオケ])_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BERSERK -Forces- (Original Karaoke)",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/04_BERSERK_-Forces-_(Original_Karaoke)_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Berserk ~forces~",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/05_Berserk_~forces~_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BERSERK ~Forces~  by Susumu Hirasawa",
+      "artist": "uritz1107",
+      "has_synced": true,
+      "path": "select/06_BERSERK_~Forces~_by_Susumu_Hirasawa_uritz1107.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BERSERK-Forces-",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/07_BERSERK-Forces-_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BERSERK-Forces- (Original Karaoke)",
+      "artist": "Susumu Hirasawa",
+      "has_synced": true,
+      "path": "select/08_BERSERK-Forces-_(Original_Karaoke)_Susumu_Hirasawa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "BERSERK–Forces–",
+      "artist": "Hirasawa, Susumu",
+      "has_synced": true,
+      "path": "select/09_BERSERK–Forces–_Hirasawa,_Susumu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "BERSERK -Forces-",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/10_BERSERK_-Forces-_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BERSERK -Forces-",
+      "artist": "Hirasawa, Susumu",
+      "has_synced": true,
+      "path": "select/11_BERSERK_-Forces-_Hirasawa,_Susumu.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BERSERK -Forces- (original karaoke)",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/12_BERSERK_-Forces-_(original_karaoke)_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "BERSERK -Forces- (original karaoke)",
+      "artist": "Hirasawa, Susumu",
+      "has_synced": true,
+      "path": "select/13_BERSERK_-Forces-_(original_karaoke)_Hirasawa,_Susumu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Berserk-Forces 1.5",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/14_Berserk-Forces_1.5_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Berserk-Forces 1.5",
+      "artist": "Hirasawa, Susumu",
+      "has_synced": true,
+      "path": "select/15_Berserk-Forces_1.5_Hirasawa,_Susumu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "BERSERK-Forces-",
+      "artist": "Susumu Hirasawa",
+      "has_synced": false,
+      "path": "select/16_BERSERK-Forces-_Susumu_Hirasawa.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "BERSERK -Forces- (オリジナル・カラオケ)",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/17_BERSERK_-Forces-_(オリジナル・カラオケ)_平沢進.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "BERSERK-Forces- (オリジナル・カラオケ)",
+      "artist": "平沢進",
+      "has_synced": true,
+      "path": "select/18_BERSERK-Forces-_(オリジナル・カラオケ)_平沢進.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BERSERK -Forces-",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_01_BERSERK_-Forces-_平沢_進.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "BERSERK -Forces-",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_02_BERSERK_-Forces-_平沢_進.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "BERSERK Forces",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_03_BERSERK_Forces_平沢_進.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "BERSERK -Forces-",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_04_BERSERK_-Forces-_平沢_進.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "BERSERK -Forces- (GOD HAND MIX)",
+      "artist": "平沢 進",
+      "has_synced": false,
+      "path": "select/pl_05_BERSERK_-Forces-_(GOD_HAND_MIX)_平沢_進.txt"
+    }
+  ]
+}
