@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "BERSERK -Forces-",
   "base_artist": "平沢進",
-  "createdAt": "2025-12-01T16:24:30.539595Z",
+  "createdAt": "2026-02-07T18:29:04.739747Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -155,38 +155,6 @@
       "artist": "平沢 進",
       "has_synced": false,
       "path": "select/pl_01_BERSERK_-Forces-_平沢_進.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "BERSERK -Forces-",
-      "artist": "平沢 進",
-      "has_synced": false,
-      "path": "select/pl_02_BERSERK_-Forces-_平沢_進.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "BERSERK Forces",
-      "artist": "平沢 進",
-      "has_synced": false,
-      "path": "select/pl_03_BERSERK_Forces_平沢_進.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "BERSERK -Forces-",
-      "artist": "平沢 進",
-      "has_synced": false,
-      "path": "select/pl_04_BERSERK_-Forces-_平沢_進.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "BERSERK -Forces- (GOD HAND MIX)",
-      "artist": "平沢 進",
-      "has_synced": false,
-      "path": "select/pl_05_BERSERK_-Forces-_(GOD_HAND_MIX)_平沢_進.txt"
     }
   ]
 }
